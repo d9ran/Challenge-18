@@ -16,3 +16,5 @@ function evaluar(){
         console.log("Por favor, suba un cambio");
     }
 }
+
+evaluar(); 
